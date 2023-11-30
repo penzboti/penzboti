@@ -53,7 +53,6 @@ Have a look around!
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <a href="https://discordapp.com/users/495654383388983315"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/12706133/penzboti"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/penzboti"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/penzboti/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
 <a href="https://open.spotify.com/user/21f43hcene2wu3yhhj75us3qy?si=1d74ebe8b7394341"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
