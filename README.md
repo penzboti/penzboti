@@ -4,10 +4,14 @@ Have a look around!
 
 ---
 
-<!-- https://github.com/PressJump/reimaginedreadme -->
-<img src="https://myreadme.vercel.app/api/embed/penzboti?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img src="https://streak-stats.demolab.com?user=penzboti&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
+<!-- https://gh-stats-gen.vercel.app/ -->
+![penzboti's Stats](https://github-readme-stats.vercel.app/api?username=penzboti&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![penzboti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=penzboti&theme=highcontrast&hide_border=false)
+
+![penzboti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=penzboti&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<!-- <img src="https://streak-stats.demolab.com?user=penzboti&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /> -->
 
 ---
 
@@ -34,7 +38,7 @@ Have a look around!
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=godot,unreal,bevy,wasm,figma,blender,mongodb,ts&perline=4" />
+            <img src="https://skillicons.dev/icons?i=godot,unreal,bevy,wasm,figma,blender,mongodb,bash&perline=4" />
         </p>
     </td>
     <td><p align="right">What I want to <b>learn</b> later</p></td>
@@ -43,10 +47,16 @@ Have a look around!
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) there is no zen logo yet 
+
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
@@ -57,7 +67,7 @@ Have a look around!
 <a href="https://open.spotify.com/user/21f43hcene2wu3yhhj75us3qy?si=1d74ebe8b7394341"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
 *Made possible by [beautify github profile](https://github.com/rzashakeri/beautify-github-profile) and [github-readme](https://github.com/madushadhanushka/github-readme).*
-*All projects are credited in comment form.*
+*All projects are credited with comments.*
 
 <!--* some cool additions aswell, altough they take up a lot of space -->
 <!-- https://github.com/omidnikrah/github-readme-stackoverflow -->
