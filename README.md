@@ -6,9 +6,10 @@ Have a look around!
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- https://gh-stats-gen.vercel.app/ -->
+<!-- https://streak-stats.demolab.com/demo/ -->
 ![penzboti's Stats](https://github-readme-stats.vercel.app/api?username=penzboti&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![penzboti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=penzboti&theme=highcontrast&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=penzboti&theme=highcontrast&hide_border=false">
 
 ![penzboti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=penzboti&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!-- <img src="https://streak-stats.demolab.com?user=penzboti&theme=highcontrast&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /> -->
