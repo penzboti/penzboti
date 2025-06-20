@@ -40,7 +40,7 @@ Have a look around!
             <img src="https://skillicons.dev/icons?i=godot,bash,lua,powershell,regex,tauri,bevy&perline=4" /><br/>
         </p>
     </td>
-    <td><p align="right">What I'm <b>starting</b>to <b>learn</b></p></td>
+    <td><p align="right">What I'm <b>starting</b> to <b>learn</b></p></td>
 </tr>
 <tr>
     <td>
