@@ -29,7 +29,7 @@ Have a look around!
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=rust,nodejs,python,css,nix,cs&perline=4" /><br/>
+            <img src="https://skillicons.dev/icons?i=rust,nodejs,python,css,nix,cs,tauri&perline=4" /><br/>
         </p>
     </td>
     <td><p align="right">What I <b>also</b> know</p></td>
@@ -37,7 +37,7 @@ Have a look around!
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=godot,bash,lua,powershell,regex,tauri,bevy&perline=4" /><br/>
+            <img src="https://skillicons.dev/icons?i=godot,bash,lua,powershell,regex,react,bevy,tailwind,perl&perline=4" /><br/>
         </p>
     </td>
     <td><p align="right">What I'm <b>starting</b> to <b>learn</b></p></td>
@@ -45,7 +45,7 @@ Have a look around!
 <tr>
     <td>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=unreal,wasm,figma,blender,mongodb,haskell,threejs,zig&perline=4" />
+            <img src="https://skillicons.dev/icons?i=unreal,wasm,figma,blender,mongodb,haskell,threejs,zig,go,htmx&perline=4" />
         </p>
     </td>
     <td><p align="right">What I want to <b>learn</b> later</p></td>
